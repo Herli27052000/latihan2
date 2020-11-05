@@ -15,7 +15,7 @@
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![output 1](gambar/tugas%201)
+![output 1](gambar/tugas%201.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](tugas1.py)
 
@@ -68,7 +68,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tugas%202)
+![output 2](gambar/tugas%202.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](tugas2.py)
 
